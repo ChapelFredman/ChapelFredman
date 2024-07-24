@@ -54,11 +54,21 @@ Ager to leverage skills in Python, automation, and network analysis to identify 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20CyberSecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+    
+<img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Data%20Science-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20IoT-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Computer%20Hardware-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Python%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Operating%20Systems-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Networking%20Basics-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Linux%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Power%20Center%2010.x%20Level%20I%20Developer%20Training-blue?style=for-the-badge&logo=informatica" />
+
+<img src="https://img.shields.io/badge/-Harvard%20CS50's%20Introduction%20to%20Computer%20Science-0056b3?&style=for-the-badge&logo=edx" />
+
 </div>
 
 ## Projects
