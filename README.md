@@ -1,15 +1,11 @@
 # Hello, I'm Eden F
 <a href="https://www.linkedin.com/in/eden-fredman-31281130a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Former IDF QA Tester and server monitoring.  
-Aspiring cyber Penetration tester aiming to leverage innovation, creativity, and a
-commitment to quality to make a lasting impact in the tech industry.
+I am a dedicated professional with a unique journey from Mexico to Israel, driven by a passion for cybersecurity and ethical hacking. Transitioning from military service where I excelled in QA and NOC roles, I am currently advancing my skills through rigorous training in ethical hacking and penetration testing. My educational foundation includes courses from Cisco Networking Academy, Udemy, and Harvard University, complemented by hands-on experience in server monitoring and testing for IDF web applications. I bring expertise in Python, SQL, and various testing methodologies, along with a commitment to enhancing organizational security and operational efficiency. My background in leadership and volunteering reflects my proactive approach and ability to thrive in diverse environments.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-Aspiring Penetration Tester with a background in cybersecurity fundamentals, data science, and IoT gained through coursework (including CS50's).
-Ager to leverage skills in Python, automation, and network analysis to identify and exploit vulnerabilities ethically.
+I am seeking opportunities to leverage my cybersecurity training and military experience to contribute effectively as an ethical hacker and penetration tester. My goal is to apply my skills in assessing and strengthening security frameworks, conducting thorough penetration tests, and collaborating with teams to mitigate vulnerabilities. I am eager to join a dynamic organization where I can continue to learn and grow while making impactful contributions to cybersecurity initiatives.
 
 
 
@@ -19,14 +15,27 @@ Ager to leverage skills in Python, automation, and network analysis to identify 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Cyber security Skill                          | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cybersecurity Fundamentals          | <a href="https://google.com">Detection Lab</a>|
-| Data Science (Basics) | <a href="https://google.com">Detection Lab</a>|
-| Network Analysis         | SOC Automation Lab|
-| Python     | SOC Automation Lab|
-| Nmap                  | SOC Automation Lab|
-| Linux | SOC Automation Lab|
+| Authentication  | <a href="https://google.com">Detection Lab</a>|
+| Cybersecurity Assessment  | <a href="https://google.com">Detection Lab</a>|
+| Intrusion Detection  | SOC Automation Lab|
+| Network Security  | SOC Automation Lab|
+| Risk Assessment        | SOC Automation Lab|
+| SIEM Tools | SOC Automation Lab|
+| Threat Analysis | SOC Automation Lab|
+| Vulnerability Assessment | SOC Automation Lab|
+
+| Technical Proficiency                          | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Linux Administration      | <a href="https://google.com">Detection Lab</a>|
+| SQL Database Management | <a href="https://google.com">Detection Lab</a>|
+| Network Analyzer Tools   | SOC Automation Lab|
+| Operating System Security (Linux and Windows)       | SOC Automation Lab|
+| Comprehensive Front-end and Back-end Testing       | SOC Automation Lab|
+| Test Case Development       | SOC Automation Lab|
+| Automation Scripting (Python)       | SOC Automation Lab|
+| QA Processes and Best Practices      | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -34,21 +43,29 @@ Ager to leverage skills in Python, automation, and network analysis to identify 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4AB367?style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCPDump-2C2D72?style=for-the-badge&logo=TCPDump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracing-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-### Endpoint
+### Cybersecurity and Penetration Testing
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-ED7822?style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-02B5E0?style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+
 </div>
 
-### SIEM
+### Technical skills
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL%20Report%20Builder-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
+
 </div>
 
 ## Certifications
