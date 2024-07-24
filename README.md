@@ -13,7 +13,6 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Cyber security Skill                          | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -38,7 +37,6 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 | QA Processes and Best Practices      | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -69,7 +67,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Google%20CyberSecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
     
