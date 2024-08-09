@@ -87,5 +87,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+- <a href="https://github.com/ChapelFredman/File_management">File Management</a>
+- <a href="https://github.com/ChapelFredman/Pdf-merger">PDF Merger</a>
+
