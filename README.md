@@ -1,7 +1,7 @@
 # Hello, I'm Eden F
 <a href="https://www.linkedin.com/in/eden-fredman-31281130a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a dedicated professional with a unique journey from Mexico to Israel, driven by a passion for cybersecurity and ethical hacking. Transitioning from military service where I excelled in QA and NOC roles, I am currently advancing my skills through rigorous training in ethical hacking and penetration testing. My educational foundation includes courses from Cisco Networking Academy, Udemy, and Harvard University, complemented by hands-on experience in server monitoring and testing for IDF web applications. I bring expertise in Python, SQL, and various testing methodologies, along with a commitment to enhancing organizational security and operational efficiency. My background in leadership and volunteering reflects my proactive approach and ability to thrive in diverse environments.
+I am a dedicated professional with a unique journey from Mexico to Israel, driven by a passion for cybersecurity and ethical hacking. Transitioning from military service where I excelled in QA and NOC roles, I am currently advancing my skills through rigorous training in ethical hacking and penetration testing. My educational foundation includes courses from Cisco Networking Academy, Udemy, and Harvard University, complemented by hands-on experience in server monitoring and testing for IDF web applications. I bring expertise in Python, SQL, and various testing methodologies, along with a commitment to enhancing organizational security and operational efficiency.
 
 ## Objective
 
