@@ -26,7 +26,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 |Virtualization | VirtualBox|
 |Brute-forcing | Metasploit, custom scripts|
 |Web Application Testing | Burp Suite|
-|Reverse Engineering | FATRat payload creation|
+|Reverse Engineering | FatRat payload creation|
 
 
 ## Tools
