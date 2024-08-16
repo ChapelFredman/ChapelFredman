@@ -20,8 +20,8 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 |Exploitation | Metasploit, Routersploit, msfvenom, FatRat|
 |Post-Exploitation | Metasploit, FatRat|
 |Network Analysis | Wireshark, Nmap, TCPDump|
-|Python Programming	| PDF Merger, File Management|
-|File Management | File Management project|
+|Python Programming	| <a href="https://github.com/ChapelFredman/Pdf-merger">PDF Merger</a> ,<a href="https://github.com/ChapelFredman/File_management">File Management</a>|
+|File Management | <a href="https://github.com/ChapelFredman/File_management">File Management</a>|
 |Linux Administration | Kali Linux|
 |Virtualization | VirtualBox|
 |Brute-forcing | Metasploit, custom scripts|
