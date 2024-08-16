@@ -14,27 +14,20 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 
 ## Skills
 
-| Cyber security Skill                          | Associated Project         |
+| Cyber security Skill                          | Associated Project/Tools       |
 |-----------------------------------------------|----------------------------|
-| Authentication  | <a href="https://google.com">Detection Lab</a>|
-| Cybersecurity Assessment  | <a href="https://google.com">Detection Lab</a>|
-| Intrusion Detection  | SOC Automation Lab|
-| Network Security  | SOC Automation Lab|
-| Risk Assessment        | SOC Automation Lab|
-| SIEM Tools | SOC Automation Lab|
-| Threat Analysis | SOC Automation Lab|
-| Vulnerability Assessment | SOC Automation Lab|
+|Vulnerability | Scanning	Nmap, Nessus |
+|Exploitation | Metasploit, Routersploit, msfvenom, FatRat|
+|Post-Exploitation | Metasploit, FatRat|
+|Network Analysis | Wireshark, Nmap, TCPDump|
+|Python Programming	| PDF Merger, File Management|
+|File Management | File Management project|
+|Linux Administration | Kali Linux|
+|Virtualization | VirtualBox|
+|Brute-forcing | Metasploit, custom scripts|
+|Web Application Testing | Burp Suite|
+|Reverse Engineering | FATRat payload creation|
 
-| Technical Proficiency                          | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Linux Administration      | <a href="https://google.com">Detection Lab</a>|
-| SQL Database Management | <a href="https://google.com">Detection Lab</a>|
-| Network Analyzer Tools   | SOC Automation Lab|
-| Operating System Security (Linux and Windows)       | SOC Automation Lab|
-| Comprehensive Front-end and Back-end Testing       | SOC Automation Lab|
-| Test Case Development       | SOC Automation Lab|
-| Automation Scripting (Python)       | SOC Automation Lab|
-| QA Processes and Best Practices      | SOC Automation Lab|
 
 ## Tools
 
@@ -51,6 +44,11 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
     <img src="https://img.shields.io/badge/-Metasploit-ED7822?style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-02B5E0?style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RouterSploit-009B77?style=for-the-badge&logo=RouterSploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?style=for-the-badge&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FatRat-009688?style=for-the-badge&logo=FatRat&logoColor=white" />
+
+
 
 </div>
 
