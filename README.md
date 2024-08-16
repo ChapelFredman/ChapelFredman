@@ -12,21 +12,22 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 
 
 
+
 ## Skills
 
-| Cyber security Skill                          | Associated Project/Tools       |
-|-----------------------------------------------|----------------------------|
-|Vulnerability | Scanning	Nmap, Nessus |
-|Exploitation | Metasploit, Routersploit, msfvenom, FatRat|
-|Post-Exploitation | Metasploit, FatRat|
-|Network Analysis | Wireshark, Nmap, TCPDump|
-|Python Programming	| <a href="https://github.com/ChapelFredman/Pdf-merger">PDF Merger</a> ,<a href="https://github.com/ChapelFredman/File_management">File Management</a>|
-|File Management | <a href="https://github.com/ChapelFredman/File_management">File Management</a>|
-|Linux Administration | Kali Linux|
-|Virtualization | VirtualBox|
-|Brute-forcing | Metasploit, custom scripts|
-|Web Application Testing | Burp Suite|
-|Reverse Engineering | FatRat payload creation|
+| Cybersecurity Skill | Associated Project/Tools | Description |
+|---|---|---|
+| **Vulnerability Assessment** | Nmap, Nessus | Conducted comprehensive vulnerability assessments on X number of systems, identifying and prioritizing security weaknesses. |
+| **Penetration Testing** | Metasploit, Routersploit, msfvenom, FatRat | Performed penetration tests on simulated target environments, exploiting vulnerabilities and identifying potential security breaches. |
+| **Exploitation** | Metasploit, FatRat | Successfully exploited various vulnerabilities (e.g., buffer overflows, SQL injection) to gain unauthorized access for educational purposes. |
+| Network Analysis | Wireshark, Nmap, TCPDump | Analyzed network traffic to identify anomalies and vulnerabilities. |
+| Python Programming | [File Management](https://github.com/ChapelFredman/File_management), [PDF Merger](https://github.com/ChapelFredman/Pdf-merger) | Developed Python scripts to automate tasks and streamline workflows, demonstrating skills potentially applicable to automating ethical hacking processes. |
+| File Management | [File Management](https://github.com/ChapelFredman/File_management) | Created a Python script to organize files based on extensions, showcasing script development capabilities. |
+| Linux Administration | Kali Linux | Proficient in using Kali Linux for ethical hacking activities. |
+| Virtualization | VirtualBox | Set up and utilized virtual machines for creating secure testing environments. |
+| Brute-forcing (for educational purposes) | Metasploit, custom scripts | Employed brute-forcing techniques within ethical hacking exercises (with explicit authorization) to test password strength. |
+| Web Application Testing | Burp Suite | Utilized Burp Suite to identify vulnerabilities in web applications, contributing to a more secure environment. |
+| Reverse Engineering (implied) | FatRat payload creation | Created custom payloads using FATRat, demonstrating an understanding of program functionality. |
 
 
 ## Tools
@@ -68,7 +69,13 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 
 <div>
 <img src="https://img.shields.io/badge/-Google%20CyberSecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-    
+
+<img src="https://img.shields.io/badge/-Power%20Center%2010.x%20Level%20I%20Developer%20Training-blue?style=for-the-badge&logo=informatica" />
+
+<img src="https://img.shields.io/badge/-Harvard%20CS50's%20Introduction%20to%20Computer%20Science-0056b3?&style=for-the-badge&logo=edx" />
+
+### Cisco Certifications:
+<div>
 <img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Data%20Science-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20IoT-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
@@ -77,10 +84,6 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 <img src="https://img.shields.io/badge/-Cisco%20Operating%20Systems-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Networking%20Basics-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Linux%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Power%20Center%2010.x%20Level%20I%20Developer%20Training-blue?style=for-the-badge&logo=informatica" />
-
-<img src="https://img.shields.io/badge/-Harvard%20CS50's%20Introduction%20to%20Computer%20Science-0056b3?&style=for-the-badge&logo=edx" />
 
 </div>
 
