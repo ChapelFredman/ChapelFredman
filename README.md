@@ -19,7 +19,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 |---|---|---|
 | **Vulnerability Assessment** | Nmap, Nessus | Conducted comprehensive vulnerability assessments on systems, identifying and prioritizing security weaknesses. |
 | **Penetration Testing** | Metasploit, Routersploit, msfvenom, FatRat | Performed penetration tests on simulated target environments, exploiting vulnerabilities and identifying potential security breaches. |
-| **Exploitation** | Metasploit, FatRat | Successfully exploited various vulnerabilities (e.g., Bluewhale, SQL injection) to gain unauthorized access for educational purposes. |
+| **Exploitation** | Metasploit, FatRat, Hydra, msfvenom| Successfully exploited various vulnerabilities (e.g., Bluewhale, SQL injection) to gain unauthorized access for educational purposes. |
 | Network Analysis | Wireshark, Nmap, TCPDump | Analyzed network traffic to identify anomalies and vulnerabilities. |
 | Python Programming | [File Management](https://github.com/ChapelFredman/File_management), [PDF Merger](https://github.com/ChapelFredman/Pdf-merger) | Developed Python scripts to automate tasks and streamline workflows. |
 | File Management | [File Management](https://github.com/ChapelFredman/File_management) | Created a Python script to organize files based on extensions. |
@@ -48,6 +48,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
     <img src="https://img.shields.io/badge/-RouterSploit-009B77?style=for-the-badge&logo=RouterSploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?style=for-the-badge&logo=BurpSuite&logoColor=white" />
     <img src="https://img.shields.io/badge/-FatRat-009688?style=for-the-badge&logo=FatRat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-0037A5?style=for-the-badge&logo=Hydra&logoColor=white" />
 
 
 
