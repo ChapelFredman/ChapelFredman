@@ -17,17 +17,17 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 
 | Cybersecurity Skill | Associated Project/Tools | Description |
 |---|---|---|
-| **Vulnerability Assessment** | Nmap, Nessus | Conducted comprehensive vulnerability assessments on X number of systems, identifying and prioritizing security weaknesses. |
+| **Vulnerability Assessment** | Nmap, Nessus | Conducted comprehensive vulnerability assessments on systems, identifying and prioritizing security weaknesses. |
 | **Penetration Testing** | Metasploit, Routersploit, msfvenom, FatRat | Performed penetration tests on simulated target environments, exploiting vulnerabilities and identifying potential security breaches. |
-| **Exploitation** | Metasploit, FatRat | Successfully exploited various vulnerabilities (e.g., buffer overflows, SQL injection) to gain unauthorized access for educational purposes. |
+| **Exploitation** | Metasploit, FatRat | Successfully exploited various vulnerabilities (e.g., Bluewhale, SQL injection) to gain unauthorized access for educational purposes. |
 | Network Analysis | Wireshark, Nmap, TCPDump | Analyzed network traffic to identify anomalies and vulnerabilities. |
-| Python Programming | [File Management](https://github.com/ChapelFredman/File_management), [PDF Merger](https://github.com/ChapelFredman/Pdf-merger) | Developed Python scripts to automate tasks and streamline workflows, demonstrating skills potentially applicable to automating ethical hacking processes. |
-| File Management | [File Management](https://github.com/ChapelFredman/File_management) | Created a Python script to organize files based on extensions, showcasing script development capabilities. |
+| Python Programming | [File Management](https://github.com/ChapelFredman/File_management), [PDF Merger](https://github.com/ChapelFredman/Pdf-merger) | Developed Python scripts to automate tasks and streamline workflows. |
+| File Management | [File Management](https://github.com/ChapelFredman/File_management) | Created a Python script to organize files based on extensions. |
 | Linux Administration | Kali Linux | Proficient in using Kali Linux for ethical hacking activities. |
 | Virtualization | VirtualBox | Set up and utilized virtual machines for creating secure testing environments. |
-| Brute-forcing (for educational purposes) | Metasploit, custom scripts | Employed brute-forcing techniques within ethical hacking exercises (with explicit authorization) to test password strength. |
+| Brute-forcing  | Metasploit, custom scripts | Employed brute-forcing techniques within ethical hacking exercises (with explicit authorization) to test password strength. |
 | Web Application Testing | Burp Suite | Utilized Burp Suite to identify vulnerabilities in web applications, contributing to a more secure environment. |
-| Reverse Engineering (implied) | FatRat payload creation | Created custom payloads using FATRat, demonstrating an understanding of program functionality. |
+| Reverse Engineering | FatRat payload creation | Created custom payloads using FatRaty. |
 
 
 ## Tools
