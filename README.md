@@ -27,7 +27,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 | Virtualization | VirtualBox | Set up and utilized virtual machines for creating secure testing environments. |
 | Brute-forcing  | Metasploit, custom scripts | Employed brute-forcing techniques within ethical hacking exercises (with explicit authorization) to test password strength. |
 | Web Application Testing | Burp Suite | Utilized Burp Suite to identify vulnerabilities in web applications, contributing to a more secure environment. |
-| Reverse Engineering | FatRat payload creation | Created custom payloads using FatRaty. |
+| Reverse Engineering | FatRat payload creation | Created custom payloads using FatRat. |
 
 
 ## Tools
