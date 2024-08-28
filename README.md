@@ -28,6 +28,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 | Brute-forcing  | Metasploit, custom scripts | Employed brute-forcing techniques within ethical hacking exercises (with explicit authorization) to test password strength. |
 | Web Application Testing | Burp Suite | Utilized Burp Suite to identify vulnerabilities in web applications, contributing to a more secure environment. |
 | Reverse Engineering | FatRat payload creation | Created custom payloads using FatRat. |
+| SIEM Integration | Azure Sentinel, Powershell, VM. [Azure-SIEM-Threat-Detection project](https://github.com/ChapelFredman/Azure-SIEM-Threat-Detection) | Developed a SIEM solution using Azure Sentinel to detect and analyze RDP brute force attacks. Utilized a custom PowerShell script for geolocation mapping. |
 
 
 ## Tools
@@ -49,6 +50,9 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?style=for-the-badge&logo=BurpSuite&logoColor=white" />
     <img src="https://img.shields.io/badge/-FatRat-009688?style=for-the-badge&logo=FatRat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hydra-0037A5?style=for-the-badge&logo=Hydra&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-00A3E0?style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
+
+
 
 
 
@@ -63,6 +67,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
     <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL%20Report%20Builder-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
 
 </div>
 
@@ -92,4 +97,4 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 
 - <a href="https://github.com/ChapelFredman/File_management">File Management</a>
 - <a href="https://github.com/ChapelFredman/Pdf-merger">PDF Merger</a>
-
+- <a href="https://github.com/ChapelFredman/Azure-SIEM-Threat-Detection">Azure SIEM</a>
