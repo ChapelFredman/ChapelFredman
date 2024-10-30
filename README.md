@@ -35,7 +35,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href="https://www.credly.com/earner/earned/badge/5620b0c3-a7f8-4ad4-91f5-69466182cba0"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4AB367?style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDump-2C2D72?style=for-the-badge&logo=TCPDump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracing-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
@@ -82,14 +82,14 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 
 ### Cisco Certifications:
 <div>
-<img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Data%20Science-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20IoT-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20Computer%20Hardware-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20Python%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20Operating%20Systems-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20Networking%20Basics-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20Linux%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<a href="https://www.credly.com/earner/earned/badge/5620b0c3-a7f8-4ad4-91f5-69466182cba0"><img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<a href="https://www.credly.com/earner/earned/badge/b6bae9ae-fc3b-45e6-ac89-31e51e40e7a6"><img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Data%20Science-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<a href="https://www.credly.com/earner/earned/badge/5e3b0821-dbcf-4cf8-bb5b-3cb6cf7dd851"><img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20IoT-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<a href="https://www.credly.com/earner/earned/badge/ff1556cc-6ae0-47ad-8dc8-7a9259978fcd"><img src="https://img.shields.io/badge/-Cisco%20Computer%20Hardware-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<a href="https://www.credly.com/earner/earned/badge/0dbcf382-7dbc-4465-8ea2-a7626157d10d"><img src="https://img.shields.io/badge/-Cisco%20Python%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<a href="https://www.credly.com/earner/earned/badge/e2eb5028-5938-4cdb-9289-ad375a37ee4d"><img src="https://img.shields.io/badge/-Cisco%20Operating%20Systems-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<a href="https://www.credly.com/earner/earned/badge/e8bf199d-d2b1-456d-941c-e9d87e80c8db"><img src="https://img.shields.io/badge/-Cisco%20Networking%20Basics-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<a href=""><img src="https://img.shields.io/badge/-Cisco%20Linux%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 
 </div>
 
