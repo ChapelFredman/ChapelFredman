@@ -89,7 +89,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 <a href="https://www.credly.com/earner/earned/badge/0dbcf382-7dbc-4465-8ea2-a7626157d10d"><img src="https://img.shields.io/badge/-Cisco%20Python%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 <a href="https://www.credly.com/earner/earned/badge/e2eb5028-5938-4cdb-9289-ad375a37ee4d"><img src="https://img.shields.io/badge/-Cisco%20Operating%20Systems-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 <a href="https://www.credly.com/earner/earned/badge/e8bf199d-d2b1-456d-941c-e9d87e80c8db"><img src="https://img.shields.io/badge/-Cisco%20Networking%20Basics-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-<a href=""><img src="https://img.shields.io/badge/-Cisco%20Linux%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<a href="https://github.com/user-attachments/files/17582327/NDG.Linux.Essent-certificate.pdf"><img src="https://img.shields.io/badge/-Cisco%20Linux%20Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 
 </div>
 
