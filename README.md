@@ -22,6 +22,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 | **Exploitation** | Metasploit, FatRat, Hydra, msfvenom| Successfully exploited various vulnerabilities (e.g., Bluewhale, SQL injection) to gain unauthorized access for educational purposes. |
 | Network Analysis | Wireshark, Nmap, TCPDump | Analyzed network traffic to identify anomalies and vulnerabilities. |
 | Python Programming | [File Management](https://github.com/ChapelFredman/File_management), [PDF Merger](https://github.com/ChapelFredman/Pdf-merger) | Developed Python scripts to automate tasks and streamline workflows. |
+| Backdoor | [Backdoor](https://github.com/ChapelFredman/Backdoor-project) | Created a client-server application for communication, command execution, and file transfer over a network. Utilized socket programming and JSON for data handling. |
 | File Management | [File Management](https://github.com/ChapelFredman/File_management) | Created a Python script to organize files based on extensions. |
 | Linux Administration | Kali Linux | Proficient in using Kali Linux for ethical hacking activities. |
 | Virtualization | VirtualBox | Set up and utilized virtual machines for creating secure testing environments. |
@@ -68,7 +69,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
     <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL%20Report%20Builder-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Socket%20Programming-FF5733?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ## Certifications
