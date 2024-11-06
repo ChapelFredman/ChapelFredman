@@ -27,6 +27,7 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 | Linux Administration | Kali Linux | Proficient in using Kali Linux for ethical hacking activities. |
 | Virtualization | VirtualBox | Set up and utilized virtual machines for creating secure testing environments. |
 | Brute-forcing  | Metasploit, custom scripts | Employed brute-forcing techniques within ethical hacking exercises (with explicit authorization) to test password strength. |
+| WPA2 Hacking/Cracking. | [WAP Cracking](https://github.com/ChapelFredman/Wireless-Access-Point-Cracking) | Cracked WPA2 passwords using aircrack-ng and Hashcat, demonstrating brute-force methods and dictionary attacks on WPA2. |
 | Web Application Testing | Burp Suite | Utilized Burp Suite to identify vulnerabilities in web applications, contributing to a more secure environment. |
 | Reverse Engineering | FatRat payload creation | Created custom payloads using FatRat. |
 | SIEM Integration | Azure Sentinel, Powershell, VM. [Azure-SIEM-Threat-Detection project](https://github.com/ChapelFredman/Azure-SIEM-Threat-Detection) | Developed a SIEM solution using Azure Sentinel to detect and analyze RDP brute force attacks. Utilized a custom PowerShell script for geolocation mapping. |
@@ -52,6 +53,13 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
     <img src="https://img.shields.io/badge/-FatRat-009688?style=for-the-badge&logo=FatRat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hydra-0037A5?style=for-the-badge&logo=Hydra&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-00A3E0?style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-00A1B4?style=for-the-badge&logo=hashcat&logoColor=white" />
+    <a href="https://www.aircrack-ng.org/">
+    <img src="https://img.shields.io/badge/-Aircrack%20ng-77B5D5?style=for-the-badge&logo=aircrack-ng&logoColor=white" alt="Aircrack-ng Badge" />
+    </a>
+
+
+
 
 
 
@@ -100,3 +108,4 @@ I am seeking opportunities to leverage my cybersecurity training and military ex
 - <a href="https://github.com/ChapelFredman/Pdf-merger">PDF Merger</a>
 - <a href="https://github.com/ChapelFredman/Azure-SIEM-Threat-Detection">Azure SIEM</a>
 - <a href="https://github.com/ChapelFredman/Backdoor-project">Backdoor project</a>
+- <a href="https://github.com/ChapelFredman/Wireless-Access-Point-Cracking">Wireless Access Point Cracking</a>
